@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald:wght@300&family=Style+Script&display=swap');
+html {
+    background: url(../image/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+body {
+    background: none;
+}
+
+.container {
+    margin-top: 180px;
+    text-align: center;
+    width: 500px;
+}
+
+input {
+    margin: 15px 0;
+}
+
+.weather {
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+#title-head{
+    font-family: 'Style Script', cursive;
+    font-size: 300%;
+}
+
+label{
+    margin: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: medium;
+    font-size: 170%;
+}
